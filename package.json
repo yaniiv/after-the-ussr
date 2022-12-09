@@ -27,7 +27,7 @@
     "chroma-js": "^2.0.3",
     "d3": "3.5.17",
     "d3-fetch": "^1.1.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "intersection-observer": "^0.5.1",
     "scrollama": "^1.4.4",
     "stickyfill": "^1.1.1-strict",
